@@ -104,6 +104,7 @@ namespace WebAppProjeto2023.Controllers
             Fabricante fabricante = context.Fabricantes.Find(id);
             context.Fabricantes.Remove(fabricante);
             context.SaveChanges();
+            TempData["Message"] = "Fabricante \"" + fabricante.Nome + "\" foi removido";
             return RedirectToAction("Index");
         }
     }
