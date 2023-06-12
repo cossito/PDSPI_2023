@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\WebAppProjeto2023",
-    "\\WebAppProjeto2023\\WebAppProjeto2023",
-    "\\WebAppProjeto2023\\WebAppProjeto2023\\Views",
-    "\\WebAppProjeto2023\\WebAppProjeto2023\\Views\\Produtos"
+    "\\WebAppProjeto2023\\WebAppProjeto2023"
   ],
-  "SelectedNode": "\\WebAppProjeto2023\\WebAppProjeto2023\\Views\\Produtos\\Details.cshtml",
+  "SelectedNode": "\\WebAppProjeto2023\\WebAppProjeto2023\\Web.config",
   "PreviewInSolutionExplorer": false
 }
