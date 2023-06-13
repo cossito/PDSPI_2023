@@ -17,9 +17,9 @@
             <tr>
                 @foreach (var item in Model.fabricantes)
                 {
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Nome);
-                    </td>
+                <td>
+                    @Html.ActionLink(item.Nome, "Index", "Home", new { FabricanteId = item.FabricanteId }, null)
+                </td>
                 }
             </tr>
         </tbody>
@@ -39,7 +39,7 @@
                 @foreach (var item in Model.categorias)
                 {
                     <td>
-                        @Html.DisplayFor(modelItem => item.Nome);
+                        @Html.ActionLink(item.Nome, "Index", "Home", new { CategoriaId = item.CategoriaId }, null)
                     </td>
                 }
             </tr>
@@ -47,6 +47,20 @@
     </table>
 </div>
 
+@if (Model.produtos != null && Model.filtro == "Fabricante")
+{
+    <div>
+        <p>Relãção de PRODUTOS para Fabricantes</p>
+        @Html.Partial("~/Views/Produtos/_PorFabricante.cshtml", Model.produtos.ToList())
+    </div>
+}
+@if (Model.produtos != null && Model.filtro == "Categoria")
+{
+    <div>
+        <p>Relãção de PRODUTOS para Categorias</p>
+        @Html.Partial("~/Views/Produtos/_PorCategoria.cshtml", Model.produtos.ToList())
+    </div>
+}
 
 @section styles{
     <link href="@Url.Content("~/content/DataTables-1.10.2/css/dataTables.bootstrap.css")" rel="stylesheet" />
