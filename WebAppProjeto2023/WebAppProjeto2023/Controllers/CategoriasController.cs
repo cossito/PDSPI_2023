@@ -5,6 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using Modelo.Tabelas;
 using WebAppProjeto2023.Models;
 
 namespace WebAppProjeto2023.Controllers
