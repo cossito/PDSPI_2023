@@ -247,3 +247,8 @@ C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.pdb
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Servico.dll
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Servico.pdb
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Servico.dll
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Persistencia.dll
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Servico.pdb
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Persistencia.pdb
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\Persistencia.dll.config
