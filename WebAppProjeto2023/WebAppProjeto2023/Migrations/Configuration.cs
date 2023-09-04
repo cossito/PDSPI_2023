@@ -10,6 +10,7 @@ namespace WebAppProjeto2023.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
             ContextKey = "Persistencia.Contexts.EFContext";
         }
 
