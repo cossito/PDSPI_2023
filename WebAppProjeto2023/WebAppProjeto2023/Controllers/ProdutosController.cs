@@ -70,6 +70,7 @@ namespace WebAppProjeto2023.Controllers
             }
             catch
             {
+                PopularViewBag(produto);
                 return View(produto);
             }
         }
