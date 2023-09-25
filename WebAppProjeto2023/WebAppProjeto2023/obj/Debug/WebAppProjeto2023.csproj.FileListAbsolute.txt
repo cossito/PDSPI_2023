@@ -75,7 +75,6 @@ C:\Users\20211011110006\source\repos\WebAppProjeto2023\WebAppProjeto2023\obj\Deb
 C:\Users\20211011110006\source\repos\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.csproj.CopyComplete
 C:\Users\20211011110006\source\repos\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.dll
 C:\Users\20211011110006\source\repos\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.pdb
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.csprojAssemblyReference.cache
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\WebAppProjeto2023.dll.config
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\WebAppProjeto2023.dll
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\bin\WebAppProjeto2023.pdb
@@ -256,3 +255,5 @@ C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.csproj.GenerateResource.cache
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.Migrations.InitialCreate.resources
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.csproj.GenerateResource.cache
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.csproj.AssemblyReference.cache
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\WebAppProjeto2023\obj\Debug\WebAppProjeto2023.csproj.CoreCompileInputs.cache

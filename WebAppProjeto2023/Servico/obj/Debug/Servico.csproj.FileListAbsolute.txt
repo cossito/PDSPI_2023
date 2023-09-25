@@ -21,7 +21,8 @@ C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\bin\De
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\bin\Debug\Persistencia.pdb
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\bin\Debug\Persistencia.dll.config
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\bin\Debug\EntityFramework.xml
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\obj\Debug\Servico.csprojAssemblyReference.cache
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\obj\Debug\Servico.csproj.CopyComplete
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\obj\Debug\Servico.dll
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\obj\Debug\Servico.pdb
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
