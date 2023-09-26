@@ -236,6 +236,7 @@
   <ItemGroup>
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Seguranca\Data\SegurancaViewModels.cs" />
     <Compile Include="Areas\Seguranca\Data\Usuario.cs" />
     <Compile Include="Areas\Seguranca\SegurancaAreaRegistration.cs" />
     <Compile Include="Context\EFContext.cs" />
@@ -283,6 +284,8 @@
     <Content Include="Views\Fabricantes\_PartialDetailsContentPanel.cshtml" />
     <Content Include="Views\Categorias\_PartialDetailsContentPanel.cshtml" />
     <Content Include="Views\Produtos\_PartialEditContentPanel.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\Create.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -294,7 +297,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Seguranca\Controllers\" />
     <Folder Include="Areas\Seguranca\Views\Shared\" />
-    <Folder Include="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Modelo\Modelo.csproj">

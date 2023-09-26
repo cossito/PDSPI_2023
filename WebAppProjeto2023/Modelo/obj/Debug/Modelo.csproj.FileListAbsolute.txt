@@ -1,12 +1,11 @@
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.dll
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.pdb
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.dll
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.pdb
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.dll
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.pdb
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.dll
 C:\Users\20211011110006\Downloads\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.pdb
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.dll
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.pdb
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.dll
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.pdb
+C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache

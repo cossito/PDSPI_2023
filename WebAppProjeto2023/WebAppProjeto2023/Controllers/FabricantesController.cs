@@ -9,7 +9,7 @@ using WebAppProjeto2023.Models;
 using Modelo.Cadastros;
 using Servico.Cadastros;
 
-namespace Projeto01.Controllers
+namespace WebAppProjeto2023.Controllers
 {
     public class FabricantesController : Controller
     {

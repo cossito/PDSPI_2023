@@ -9,7 +9,7 @@ using System.Web;
 using WebAppProjeto2023.DAL;
 using WebAppProjeto2023.Infraestrutura;
 
-namespace WebAppProjeto2023.App_Start
+namespace WebAppProjeto2023
 {
     public class IdentityConfig
     {

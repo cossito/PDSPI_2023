@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNet.Identity.Owin;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using WebAppProjeto2023.Areas.Seguranca.Data;
 using WebAppProjeto2023.Infraestrutura;
 
 namespace WebAppProjeto2023.Controllers
@@ -24,6 +26,39 @@ namespace WebAppProjeto2023.Controllers
         public ActionResult Index()
         {
             return View(GerenciadorUsuario.Users);
+        }
+
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        private void AddErrorsFromResult(IdentityResult result)
+        {
+            foreach (string error in result.Errors)
+            {
+                ModelState.AddModelError("", error);
+            }
+        }
+        [HttpPost]
+        public ActionResult Create(UsuarioViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                Usuario user = new Usuario
+                {
+                    UserName = model.Nome,
+                    Email = model.Email
+                };
+                IdentityResult result = GerenciadorUsuario.Create(user, model.Senha);
+                if (result.Succeeded)
+                { return RedirectToAction("Index"); }
+                else
+                {
+                    AddErrorsFromResult(result);
+                }
+            }
+            return View(model);
         }
     }
 }
