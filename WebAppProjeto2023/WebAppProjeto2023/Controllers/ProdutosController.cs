@@ -21,6 +21,7 @@ namespace WebAppProjeto2023.Controllers
         private FabricanteServico fabricanteServico = new FabricanteServico();
 
         // GET: Produtos
+        [Authorize]
         public ActionResult Index()
         {
             //var produtos = context.Produtos.Include(c => c.Categoria). // Acesso ao contexto
