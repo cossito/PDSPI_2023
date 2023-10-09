@@ -24,7 +24,6 @@ namespace WebAppProjeto2023.Controllers
             }
         }
         // GET: Seguranca/Admin
-        [Authorize]
         public ActionResult Index()
         {
             return View(GerenciadorUsuario.Users);
