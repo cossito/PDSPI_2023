@@ -197,6 +197,10 @@
     <Content Include="Areas\Seguranca\Views\web.config" />
     <Content Include="Areas\Seguranca\Views\Account\Login.cshtml" />
     <Content Include="Areas\Seguranca\Views\PapelAdmin\Index.cshtml" />
+    <Content Include="Areas\Seguranca\Views\PapelAdmin\Create.cshtml" />
+    <Content Include="Areas\Seguranca\Views\PapelAdmin\Edit.cshtml" />
+    <Content Include="Areas\Seguranca\Views\Carrinhos\Create.cshtml" />
+    <Content Include="Areas\Seguranca\Views\Carrinhos\_ItensCarrinho.cshtml" />
     <None Include="Scripts\jquery-2.2.4.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -239,6 +243,7 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Seguranca\Controllers\AccountController.cs" />
+    <Compile Include="Areas\Seguranca\Controllers\CarrinhosController.cs" />
     <Compile Include="Areas\Seguranca\Controllers\PapelAdminController.cs" />
     <Compile Include="Areas\Seguranca\Data\Papel.cs" />
     <Compile Include="Areas\Seguranca\Data\SegurancaViewModels.cs" />
