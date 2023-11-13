@@ -8,4 +8,4 @@ C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Deb
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\bin\Debug\Modelo.pdb
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.dll
 C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.pdb
-C:\Users\20211011110006\Source\Repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\20211011110006\source\repos\PDSPI_2023\WebAppProjeto2023\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache

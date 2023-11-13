@@ -4,7 +4,6 @@
 @using (Html.BeginForm("AddProduto", "Carrinhos",
 
 new { area = "Carrinho" }, FormMethod.Post, new { id = "formCarrinho" }))
-
 {
     @Html.AntiForgeryToken()
     <div class="panel panel-primary">
@@ -57,10 +56,12 @@ new { area = "Carrinho" }, FormMethod.Post, new { id = "formCarrinho" }))
             <div class="col-md-12">
                 <div id="itenscarrinho">
 
-                    @Html.Partial("~/Areas/Carrinho/Views/Carrinhos/_ItensCarrinho.cshtml", Model)
+                    @Html.Partial("~/Areas/Seguranca/Views/Carrinhos/_ItensCarrinho.cshtml", Model)
 
                 </div>
             </div>
         </div>
     </div>
+
 }
+
